@@ -1,4 +1,4 @@
-class program1EX5
+class program1EX6
 {
 public static void main(String[] args)
 {
