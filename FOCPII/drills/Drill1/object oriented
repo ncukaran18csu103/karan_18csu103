@@ -1,0 +1,18 @@
+public static void main(String []args)
+{
+	Vacation vacation;
+	Plan plan;
+	Book book;
+	Bag bag;
+	Tickets;
+	Cloths cloths;
+	Money money;
+	Food food;
+	olan.vacation();
+	plan.tickets();
+	bag.cloths();
+	bag.food();
+	bag.money();
+	bag.tickets();
+	System.out.println(“Plan is ready.”);
+}

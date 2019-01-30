@@ -1,0 +1,15 @@
+public static void main(String []args)
+{
+	Vacation vacation;
+	plan vacation;
+	book tickets
+
+	addbag()
+	{
+		add cloths();
+		add food();
+		add tickets();
+		add money();
+	}
+	System.out.println(“Plan is ready.”);
+}
